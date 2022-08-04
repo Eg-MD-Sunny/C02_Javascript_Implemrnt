@@ -1,0 +1,1 @@
+document.write("You are very bad </br>");
